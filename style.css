@@ -1,0 +1,13 @@
+
+#timer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    font-weight: 500;
+    line-height: 28px;
+    padding: 2rem;
+}
+.button{
+    border-radius: 1rem 1rem;
+    background-color: blueviolet;
+    padding: .1rem;
+}
