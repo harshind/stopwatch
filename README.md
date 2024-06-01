@@ -13,7 +13,7 @@ This is a simple stopwatch application built using HTML, CSS, BootStrap and Java
 3. Use the buttons to control the stopwatch:
   - Click "Start" to begin the timer.
   - Click "Stop" to pause the timer.
-  - Click "Reset" to reset the timer to 00:00:00:000.
+  - Click "Reset" to reset the timer to 00:00.
 
 Enjoy using the stopwatch!
 # License
