@@ -1,6 +1,6 @@
-# Stopwatch
+# STOPWATCH
 # Description
-This is a simple stopwatch application built using HTML, CSS,BootStrap and JavaScript. It allows users to start, stop, and reset the stopwatch. It displays elapsed time in  minutes and seconds.
+This is a simple stopwatch application built using HTML, CSS, BootStrap and JavaScript. It allows users to start, stop, and reset the stopwatch. It displays elapsed time in  minutes and seconds.
 
 # Features
 - Start: Begins the stopwatch timer.
