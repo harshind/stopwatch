@@ -17,4 +17,4 @@ This is a simple stopwatch application built using HTML, CSS, BootStrap and Java
 
 Enjoy using the stopwatch!
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
